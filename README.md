@@ -1,6 +1,6 @@
 # vue-quiz
 
-A simple quiz project that uses pinia's state to navigate between questions. Why pinia instead of dynamic routing? For fun.
+A simple quiz project that uses pinia's state to navigate between questions. 
 
 ## Project Setup
 
